@@ -39,10 +39,10 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT Message, WPARAM wParam, LPARAM lParam) 
 						if (ret == IDOK){
 							GameRestart();
 							if (Player1Round){
-								MessageBox(NULL, "Gr� zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
+								MessageBox(NULL, "Grę zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
 							}
 							else{
-								MessageBox(NULL, "Gr� zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
+								MessageBox(NULL, "Grę zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
 							}
 							if (cfg->bAI) SetWindowText(NazwaGracza2, "Komputer");
 						}
@@ -74,10 +74,10 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT Message, WPARAM wParam, LPARAM lParam) 
 						if (ret == IDOK){
 							GameRestart();
 							if (Player1Round){
-								MessageBox(NULL, "Gr� zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
+								MessageBox(NULL, "Grę zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
 							}
 							else{
-								MessageBox(NULL, "Gr� zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
+								MessageBox(NULL, "Grę zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
 							}
 							if (cfg->bAI) SetWindowText(NazwaGracza2, "Komputer");
 						}
@@ -109,10 +109,10 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT Message, WPARAM wParam, LPARAM lParam) 
 						if (ret == IDOK){
 							GameRestart();
 							if (Player1Round){
-								MessageBox(NULL, "Gr� zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
+								MessageBox(NULL, "Grę zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
 							}
 							else{
-								MessageBox(NULL, "Gr� zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
+								MessageBox(NULL, "Grę zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
 							}
 							if (cfg->bAI) SetWindowText(NazwaGracza2, "Komputer");
 						}
@@ -144,10 +144,10 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT Message, WPARAM wParam, LPARAM lParam) 
 						if (ret == IDOK){
 							GameRestart();
 							if (Player1Round){
-								MessageBox(NULL, "Gr� zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
+								MessageBox(NULL, "Grę zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
 							}
 							else{
-								MessageBox(NULL, "Gr� zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
+								MessageBox(NULL, "Grę zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
 							}
 							if (cfg->bAI) SetWindowText(NazwaGracza2, "Komputer");
 						}
@@ -179,10 +179,10 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT Message, WPARAM wParam, LPARAM lParam) 
 						if (ret == IDOK){
 							GameRestart();
 							if (Player1Round){
-								MessageBox(NULL, "Gr� zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
+								MessageBox(NULL, "Grę zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
 							}
 							else{
-								MessageBox(NULL, "Gr� zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
+								MessageBox(NULL, "Grę zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
 							}
 							if (cfg->bAI) SetWindowText(NazwaGracza2, "Komputer");
 						}
@@ -214,10 +214,10 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT Message, WPARAM wParam, LPARAM lParam) 
 						if (ret == IDOK){
 							GameRestart();
 							if (Player1Round){
-								MessageBox(NULL, "Gr� zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
+								MessageBox(NULL, "Grę zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
 							}
 							else{
-								MessageBox(NULL, "Gr� zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
+								MessageBox(NULL, "Grę zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
 							}
 							if (cfg->bAI) SetWindowText(NazwaGracza2, "Komputer");
 						}
@@ -250,10 +250,10 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT Message, WPARAM wParam, LPARAM lParam) 
 						if (ret == IDOK){
 							GameRestart();
 							if (Player1Round){
-								MessageBox(NULL, "Gr� zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
+								MessageBox(NULL, "Grę zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
 							}
 							else{
-								MessageBox(NULL, "Gr� zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
+								MessageBox(NULL, "Grę zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
 							}
 							if (cfg->bAI) SetWindowText(NazwaGracza2, "Komputer");
 						}
@@ -282,10 +282,10 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT Message, WPARAM wParam, LPARAM lParam) 
 							if (ret == IDOK){
 								GameRestart();
 								if (Player1Round){
-									MessageBox(NULL, "Gr� zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
+									MessageBox(NULL, "Grę zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
 								}
 								else{
-									MessageBox(NULL, "Gr� zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
+									MessageBox(NULL, "Grę zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
 								}
 								if (cfg->bAI) SetWindowText(NazwaGracza2, "Komputer");
 							}
@@ -319,10 +319,10 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT Message, WPARAM wParam, LPARAM lParam) 
 						if (ret == IDOK){
 							GameRestart();
 							if (Player1Round){
-								MessageBox(NULL, "Gr� zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
+								MessageBox(NULL, "Grę zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
 							}
 							else{
-								MessageBox(NULL, "Gr� zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
+								MessageBox(NULL, "Grę zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
 							}
 							if (cfg->bAI) SetWindowText(NazwaGracza2, "Komputer");
 						}
@@ -350,10 +350,10 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT Message, WPARAM wParam, LPARAM lParam) 
 							if (ret == IDOK){
 								GameRestart();
 								if (Player1Round){
-									MessageBox(NULL, "Gr� zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
+									MessageBox(NULL, "Grę zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
 								}
 								else{
-									MessageBox(NULL, "Gr� zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
+									MessageBox(NULL, "Grę zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
 								}
 								if (cfg->bAI) SetWindowText(NazwaGracza2, "Komputer");
 							}
@@ -387,10 +387,10 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT Message, WPARAM wParam, LPARAM lParam) 
 						if (ret == IDOK){
 							GameRestart();
 							if (Player1Round){
-								MessageBox(NULL, "Gr� zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
+								MessageBox(NULL, "Grę zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
 							}
 							else{
-								MessageBox(NULL, "Gr� zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
+								MessageBox(NULL, "Grę zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
 							}
 							if (cfg->bAI) SetWindowText(NazwaGracza2, "Komputer");
 						}
@@ -418,10 +418,10 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT Message, WPARAM wParam, LPARAM lParam) 
 							if (ret == IDOK){
 								GameRestart();
 								if (Player1Round){
-									MessageBox(NULL, "Gr� zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
+									MessageBox(NULL, "Grę zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
 								}
 								else{
-									MessageBox(NULL, "Gr� zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
+									MessageBox(NULL, "Grę zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
 								}
 								if (cfg->bAI) SetWindowText(NazwaGracza2, "Komputer");
 							}
@@ -455,10 +455,10 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT Message, WPARAM wParam, LPARAM lParam) 
 						if (ret == IDOK){
 							GameRestart();
 							if (Player1Round){
-								MessageBox(NULL, "Gr� zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
+								MessageBox(NULL, "Grę zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
 							}
 							else{
-								MessageBox(NULL, "Gr� zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
+								MessageBox(NULL, "Grę zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
 							}
 							if (cfg->bAI) SetWindowText(NazwaGracza2, "Komputer");
 						}
@@ -487,10 +487,10 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT Message, WPARAM wParam, LPARAM lParam) 
 							if (ret == IDOK){
 								GameRestart();
 								if (Player1Round){
-									MessageBox(NULL, "Gr� zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
+									MessageBox(NULL, "Grę zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
 								}
 								else{
-									MessageBox(NULL, "Gr� zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
+									MessageBox(NULL, "Grę zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
 								}
 								if (cfg->bAI) SetWindowText(NazwaGracza2, "Komputer");
 							}
@@ -524,10 +524,10 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT Message, WPARAM wParam, LPARAM lParam) 
 						if (ret == IDOK){
 							GameRestart();
 							if (Player1Round){
-								MessageBox(NULL, "Gr� zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
+								MessageBox(NULL, "Grę zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
 							}
 							else{
-								MessageBox(NULL, "Gr� zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
+								MessageBox(NULL, "Grę zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
 							}
 							if (cfg->bAI) SetWindowText(NazwaGracza2, "Komputer");
 						}
@@ -555,10 +555,10 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT Message, WPARAM wParam, LPARAM lParam) 
 							if (ret == IDOK){
 								GameRestart();
 								if (Player1Round){
-									MessageBox(NULL, "Gr� zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
+									MessageBox(NULL, "Grę zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
 								}
 								else{
-									MessageBox(NULL, "Gr� zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
+									MessageBox(NULL, "Grę zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
 								}
 								if (cfg->bAI) SetWindowText(NazwaGracza2, "Komputer");
 							}
@@ -592,10 +592,10 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT Message, WPARAM wParam, LPARAM lParam) 
 						if (ret == IDOK){
 							GameRestart();
 							if (Player1Round){
-								MessageBox(NULL, "Gr� zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
+								MessageBox(NULL, "Grę zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
 							}
 							else{
-								MessageBox(NULL, "Gr� zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
+								MessageBox(NULL, "Grę zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
 							}
 							if (cfg->bAI) SetWindowText(NazwaGracza2, "Komputer");
 						}
@@ -623,10 +623,10 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT Message, WPARAM wParam, LPARAM lParam) 
 							if (ret == IDOK){
 								GameRestart();
 								if (Player1Round){
-									MessageBox(NULL, "Gr� zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
+									MessageBox(NULL, "Grę zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
 								}
 								else{
-									MessageBox(NULL, "Gr� zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
+									MessageBox(NULL, "Grę zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
 								}
 								if (cfg->bAI) SetWindowText(NazwaGracza2, "Komputer");
 							}
@@ -653,17 +653,17 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT Message, WPARAM wParam, LPARAM lParam) 
 			//Nowa Gra
 			int ret = DialogBox(GetModuleHandle(NULL), MAKEINTRESOURCE(666), hwnd, ConfigDialogProcedure);
 			if (ret == IDOK){
-				//MessageBox( hwnd, "Wybra�e� \'OK\' w oknie dialogowym!", "Test", MB_ICONINFORMATION );
+				//MessageBox( hwnd, "Wybrałeś \'OK\' w oknie dialogowym!", "Test", MB_ICONINFORMATION );
 				if (Player1Round){
-					MessageBox(NULL, "Gr� zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
+					MessageBox(NULL, "Grę zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
 				}
 				else{
-					MessageBox(NULL, "Gr� zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
+					MessageBox(NULL, "Grę zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
 				}
 				if (cfg->bAI) SetWindowText(NazwaGracza2, "Komputer");
 			}
 			else if (ret == IDCANCEL)
-				MessageBox(hwnd, "Wybra�e� \'Anuluj\' w oknie dialogowym!", "Test", MB_ICONINFORMATION);
+				MessageBox(hwnd, "Wybrałeś \'Anuluj\' w oknie dialogowym!", "Test", MB_ICONINFORMATION);
 			InvalidateRect(hwnd, NULL, TRUE);
 			break;
 		}
@@ -1130,10 +1130,10 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
 		return 0;
 	}
 	if (Player1Round){
-		MessageBox(NULL, "Gr� zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
+		MessageBox(NULL, "Grę zaczyna Gracz pierwszy", "Start!", MB_ICONEXCLAMATION);
 	}
 	else{
-		MessageBox(NULL, "Gr� zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
+		MessageBox(NULL, "Grę zaczyna Gracz drugi", "Start!", MB_ICONEXCLAMATION);
 		if (cfg->bAI){
 			MessageBox(hwnd, "Ruch AI!", "Info", MB_ICONINFORMATION);
 			int Wybrane = Gra.mPlayer_B.AImove(Gra.OwarePlayground, Gra.AIlevel);
@@ -1236,8 +1236,8 @@ BOOL CALLBACK EndDlgProc(HWND hwnd, UINT Msg, WPARAM wParam, LPARAM lParam)
 }
 
 void EndOfGame(){
-	if (Gra.mPlayer_A.mCollectedSeeds>Gra.mPlayer_B.mCollectedSeeds) MessageBox(NULL, "Zwyciezy� gracz pierwszy", "Koniec!", MB_ICONEXCLAMATION | MB_OK);
-	if (Gra.mPlayer_A.mCollectedSeeds<Gra.mPlayer_B.mCollectedSeeds) MessageBox(NULL, "Zwyciezy� gracz drugi", "Koniec!", MB_ICONEXCLAMATION | MB_OK);
+	if (Gra.mPlayer_A.mCollectedSeeds>Gra.mPlayer_B.mCollectedSeeds) MessageBox(NULL, "Zwyciezył gracz pierwszy", "Koniec!", MB_ICONEXCLAMATION | MB_OK);
+	if (Gra.mPlayer_A.mCollectedSeeds<Gra.mPlayer_B.mCollectedSeeds) MessageBox(NULL, "Zwyciezył gracz drugi", "Koniec!", MB_ICONEXCLAMATION | MB_OK);
 	if (Gra.mPlayer_A.mCollectedSeeds == Gra.mPlayer_B.mCollectedSeeds) MessageBox(NULL, "Remis!!!", "Koniec!", MB_ICONEXCLAMATION | MB_OK);
 	GameRestart();
 }
